@@ -5,6 +5,8 @@
 This is a BabylonJS + vite minimal boilerplate for development and production to work with **typescript**. 
 It starts faster than webpack and allow debugging from vscode.
 
+This version has ES6 style imports and code (no var), no npm package vulnerabilities and removed obvious comments.
+
 ## instructions
 
 - clone or download the repo
